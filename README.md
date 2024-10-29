@@ -15,3 +15,8 @@ The main data structures in `Pandas` are implemented with **Series** and **DataF
 
 2- In the field of Machine Learning, *data visualization* is not just making fancy graphics for reports; it is used extensively in day-to-day work for all phases of a project.
 - **In this task you should use Pandas to answer a few questions about the [Adult](https://archive.ics.uci.edu/ml/datasets/Adult) dataset. (You don't have to download the data – it's already here). Choose the answers in the [web-form](https://docs.google.com/forms/d/1uY7MpI2trKx6FLWZte0uVh3ULV4Cm_tDud0VDFGCOKg). This is a demo version of an assignment, so by submitting the form, you'll see a link to the solution .ipynb file.**
+
+## 3 Session 16 - STD Version
+
+Machin learning   
+Learn machine learning cootkamp Daneshkar
