@@ -44,3 +44,34 @@ Learn machine learning cootkamp Daneshkarپ
 
 The National Household <em>Sample Survey - PNAD</em> annually investigates, on a permanent basis, general characteristics of the population, education, work, income and housing and others, with variable frequency, according to the information needs for the country, such as the characteristics on migration, fertility, nuptiality, health, food security, among other topics. The collection of these statistics constitutes, over the 49 years of conducting the research, an important instrument for the formulation, validation and evaluation of policies aimed at socioeconomic development and the improvement of living conditions in Brazil   
 
+## 5 heart attack prediction with machine learning
+
+## 6 Ds Job Post Dea
+
+About Dataset
+Context
+This is a dataset of data science job posts in glassdoor.
+
+Content
+The data was scrapped from glassdoor's website. There are two versions of the data one is uncleaned and another one is cleaned. Web scrapping, Data cleaning & EDA code are added in the code section.
+
+In the cleaned version the columns explanation are as follows,
+
+Job Title: Title of the job posting
+Salary Estimation: Salary range for that particular job
+Job Description: This contains the full description of that job
+Rating: Rating of that post
+Company: Name of company
+Location: Location of the company
+Headquarter: Location of the headquater
+Size: Total employee in that company
+Type of ownership: Describes the company type i.e non-profit/public/private farm etc
+Industry, Sector: Field applicant will work in
+Revenue: Total revenue of the company
+min_salary,max_salary,avg_salary: Refers to the minimum, maximum and average salary for that post
+job_state: State where the applicant will work
+same_state: Same state as headquarter or not(Boolean)
+company_age: Age of company
+python,excel,hadoop,spark,aws,tableau,big_data: Some most appeared skills in boolean columns form
+job_simp: Job type
+seniority: if job type is senior or not (Boolean)
